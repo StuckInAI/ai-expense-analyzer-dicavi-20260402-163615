@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <rect x="80" y="80" width="1040" height="470" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="80" y="80" width="1040" height="56" rx="16" fill="#1e293b"/>
+  <rect x="80" y="112" width="1040" height="24" fill="#1e293b"/>
+  <circle cx="120" cy="108" r="8" fill="#ef4444"/>
+  <circle cx="148" cy="108" r="8" fill="#f59e0b"/>
+  <circle cx="176" cy="108" r="8" fill="#10b981"/>
+  <text x="600" y="300" text-anchor="middle" font-family="system-ui" font-weight="800" font-size="64" fill="#f8fafc">Shared WorkSpace</text>
+  <text x="600" y="370" text-anchor="middle" font-family="system-ui" font-size="28" fill="#94a3b8">Live collaboration for modern teams</text>
+  <circle cx="600" cy="480" r="12" fill="#3b82f6"/>
+  <circle cx="560" cy="480" r="8" fill="#8b5cf6"/>
+  <circle cx="640" cy="480" r="8" fill="#10b981"/>
+  <circle cx="520" cy="480" r="6" fill="#f59e0b"/>
+  <circle cx="680" cy="480" r="6" fill="#ef4444"/>
+</svg>
